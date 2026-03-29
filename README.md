@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://postaipilot.com"><img src="https://img.shields.io/badge/🌐_Website-postaipilot.com-0066FF?style=for-the-badge" alt="Website"/></a>&nbsp;
-  <a href="./release-notes"><img src="https://img.shields.io/badge/📋_Release-Notes-28A745?style=for-the-badge" alt="Release Notes"/></a>
+  <a href="./release_notes"><img src="https://img.shields.io/badge/📋_release_notes-28A745?style=for-the-badge" alt="Release Notes"/></a>
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@ We're proud to be supported by startup programs that help us scale:
 
 We publish regular updates about new features, improvements, and bug fixes.
 
-👉 **[View all release notes →](./release-notes)**
+👉 **[View all release notes →](./release_notes)**
 
 ---
 
@@ -127,7 +127,7 @@ We publish regular updates about new features, improvements, and bug fixes.
 
 **Star this repo** to get notified about new releases, features, and updates.
 
-We believe in building in public — check our [release notes](./release-notes) for the full changelog.
+We believe in building in public — check our [release notes](./release_notes) for the full changelog.
 
 ---
 
