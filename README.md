@@ -133,5 +133,5 @@ We believe in building in public — check our [release notes](./release-notes) 
 
 <p align="center">
   <sub>Built with ❤️ and AI in Istanbul, Turkey</sub><br/>
-  <sub>© 2025 PostAIPilot — All rights reserved.</sub>
+  <sub>© 2026 PostAIPilot — All rights reserved.</sub>
 </p>
